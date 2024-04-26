@@ -16,13 +16,11 @@ body{
 .half-width img{
     width: 80%;
 }
-.live{
-    background-color: red;
-    height: 60px;
-    padding: 5%;
-    color: white;
-    font-size: 25px;
-    font-weight: bold;
+
+.button-one{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: palevioletred;
 }
 /* main */
 .second-para{
@@ -126,7 +124,6 @@ footer a{
             display: flex;
             background-color: white;
             width: 20%;
-            margin-bottom: 0;
         }
         .thirty-width a{
             height: 80px;
